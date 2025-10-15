@@ -1,2 +1,3 @@
 # Kickstarter_Pigstinki
-Pigstinki's first project
+CUHKSZ AIE 1901 CHAPTER 1
+
